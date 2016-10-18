@@ -4,7 +4,9 @@ package thegame;
 /**
  * ASADASDASDASDDSA
  * @author Oscar Almqvist
- */
+ * Hej nu provar jag branches!!!!
+he
+*/
 
 // sadasd ERIC?
 
@@ -26,4 +28,5 @@ public class Thegame {
     public String aids(String name){
         return name +"har aids";
     }
+    
 }
