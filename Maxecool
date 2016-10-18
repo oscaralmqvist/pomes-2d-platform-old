@@ -1,4 +1,5 @@
 Wow #hddheg
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 LOLOLOL
@@ -6,3 +7,6 @@ LOLOLOL
 public static void main(String
 =======
 >>>>>>> origin/master
+=======
+Test
+>>>>>>> Stashed changes
