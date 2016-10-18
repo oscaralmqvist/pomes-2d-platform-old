@@ -5,6 +5,9 @@ package thegame;
  * ASADASDASDASDDSA
  * @author Oscar Almqvist
  */
+
+// Allt har Eric skrivit!
+
 public class Thegame {
     private int x;
     
