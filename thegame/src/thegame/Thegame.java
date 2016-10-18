@@ -6,7 +6,7 @@ package thegame;
  * @author Oscar Almqvist
  */
 
-// Allt har Eric skrivit!
+// sadasd
 
 public class Thegame {
     private int x;
