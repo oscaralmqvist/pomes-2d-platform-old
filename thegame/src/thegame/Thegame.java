@@ -11,4 +11,7 @@ public class Thegame {
         System.out.println("S");
         System.out.println("YMCA eoeoe");
     }
+    public void Kukanus(int janne){
+        return janne;
+    }
 }
