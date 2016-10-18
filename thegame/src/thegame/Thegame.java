@@ -9,6 +9,6 @@ public class Thegame {
 
     public static void main(String[] args) {
         System.out.println("S");
-        System.out.println("YMCA");
+        System.out.println("YMCA eoeoe");
     }
 }
