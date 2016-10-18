@@ -26,4 +26,10 @@ public class Thegame {
     public String aids(String name){
         return name +"har aids";
     }
+    
+    private void say() {
+        System.out.println("Hello!");
+    }
+ 
+    
 }
