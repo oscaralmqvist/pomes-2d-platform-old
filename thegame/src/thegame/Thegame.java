@@ -6,6 +6,13 @@ package thegame;
  * @author Oscar Almqvist
  * Hej nu provar jag branches!!!!
 he
+* 
+* 
+* 
+* KOMMANDOTOLk
+* 
+* 
+* 
 */
 
 // sadasd ERIC?
