@@ -2,18 +2,8 @@
 package thegame;
 
 /**
- * ASADASDASDASDDSA
- * @author Oscar Almqvist
- * Hej nu provar jag branches!!!!
-he
-* 
-* 
-* 
-* KOMMANDOTOLk
-* kk
-* 
-* 
 */
+
 
 // sadasd ERIC?
 
@@ -36,4 +26,9 @@ public class Thegame {
         return name +"har aids";
     }
     
+    private void say() {
+        System.out.println("Hello!");
+    }
+ 
+    // Hejsan jag heter eric och jag testar!
 }
