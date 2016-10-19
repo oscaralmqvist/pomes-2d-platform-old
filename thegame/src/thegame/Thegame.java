@@ -30,5 +30,8 @@ public class Thegame {
         System.out.println("Hello!");
     }
  
+    // sånt är livet!
+    // det här finns inte!
+    
     // Hejsan jag heter eric och jag testar!
 }
